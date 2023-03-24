@@ -1,1 +1,71 @@
+*{
+    box-sizing:border-box;
+}
+@import url("normalize.css");
+/* -------------------- GLOBAL DEFAULTS */
+
+body {
+    background-color: #D1C0A8;
+}
+
+.topnav {
+    background-color:#d4c7b6;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+
+  }
+
+
+h2 {
+    color: rgb(4, 4, 4);
+    font: size 20px;
+    background-color:linear-gradient (to right,beige, white);
+    width: 100px;
+    height: 100px;
+    text-align:right;
+
+
+}
+
+
+h1 {
+    font-size: 40px;
+    padding-top: 100px;
+    background-color:white;
+    height: 260px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+ 
+  .fa-facebook {
+   color: white;
+  }
+  
+
+  .fa-instagram {
+    color: white;
+  }
+ 
+  
 
