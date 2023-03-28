@@ -20,17 +20,6 @@ body {
     font-family: "articulat-cf", sans-serif;
     font-weight: 200;
     font-style: normal;
-  
-}
-
-h1 {
-    font-size: 40px;
-    padding-top: 100px;
-    background-color:#f6ebe1;
-    height: 260px;
-    text-align: center;
-    border-radius: 10px;
-    
 }
 .fa {
     padding: 20px;
@@ -66,9 +55,13 @@ footer {
     font-family: "articulat-cf", sans-serif;
     font-weight: 200;
     font-style: normal;
-    
 
  }
+
+
+banner{
+      width: 1600;
+}
  
   
 
