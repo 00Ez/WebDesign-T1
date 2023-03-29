@@ -30,18 +30,6 @@ body {
     
   }
   
-  .fa:hover {
-    opacity: 0.7;
-  }
-  
-  .fa-facebook {
-   color: white;
-  }
-  
-  .fa-instagram {
-    color: white;
-  }
-
 footer {
     position: fixed;
     left: 0;
@@ -55,8 +43,10 @@ footer {
     font-family: "articulat-cf", sans-serif;
     font-weight: 200;
     font-style: normal;
+}
 
- }
+
+ 
  
   
 
