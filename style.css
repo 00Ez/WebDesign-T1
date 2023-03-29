@@ -18,8 +18,13 @@ body {
   font-family: "articulat-cf", sans-serif;
   font-weight: 200;
   font-style: normal;
-
-
+}
+.topnav a:hover {
+  background-color: #D9C5B4;
+  color: rgb(0, 0, 0);
+}
+.topnav a.active {
+  color: D9C5B4;
 }
   
 footer {
