@@ -7,9 +7,11 @@
 body {
     background-color: #D9C5B4;
 }
-.topnav {
+.topnav{
   background-color:#f6ebe1;
-  overflow: hidden;
+  display: inline-block;
+  width: 90%;
+  
 }
 .topnav a {
   float:left;
@@ -18,14 +20,39 @@ body {
   font-family: "articulat-cf", sans-serif;
   font-weight: 200;
   font-style: normal;
+  margin: auto;
 }
+
+
+
 .topnav a:hover {
   background-color: #D9C5B4;
   color: rgb(0, 0, 0);
 }
-.topnav a.active {
-  color: D9C5B4;
+
+
+
+.fa {
+   padding: 20px;
+  font-size: 30px;
+  width:auto;
+  text-decoration: none;
+  margin: auto;
 }
+
+.fa-facebook {
+  color: rgb(0, 0, 0);
+  float: right;
+  background-color: #f6ebe1;
+
+}
+
+.fa-instagram {
+  color: rgb(6, 6, 6);
+  float: right;
+  background-color: #f6ebe1;
+}
+
   
 footer {
     position: fixed;
