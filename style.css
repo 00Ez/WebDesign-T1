@@ -23,15 +23,6 @@ body {
   margin: auto;
 }
 
-
-
-.topnav a:hover {
-  background-color: #D9C5B4;
-  color: rgb(0, 0, 0);
-}
-
-
-
 .fa {
    padding: 20px;
   font-size: 30px;
