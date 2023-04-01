@@ -10,7 +10,7 @@ body {
 .topnav{
   background-color:#f6ebe1;
   display: inline-block;
-  width: 90%;
+  width: 100%;
   
 }
 .topnav a {
@@ -24,11 +24,11 @@ body {
 }
 
 .fa {
-   padding: 20px;
+   padding: 0 px;
   font-size: 30px;
   width:auto;
   text-decoration: none;
-  margin: auto;
+  margin: 0;
 }
 
 .fa-facebook {
